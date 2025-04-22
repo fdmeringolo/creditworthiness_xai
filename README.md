@@ -1,6 +1,6 @@
 # Creditworthiness using Artificial Intelligence
 
-This project aims to create a predictive model that can estimate customers' creditworthiness and understand whether or not to accept an application for credit card issuance.
+This project aims to create a predictive model that can estimate customers' creditworthiness and understand whether or not to accept an application for credit card issuance. If a customer is denied a credit card, the model must provide easily interpretable indications.
 
 ## Files
 
